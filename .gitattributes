@@ -1,0 +1,2 @@
+# Reclassifies `.ipynb` files as Julia in current repo
+*.ipynb linguist-language=Julia
