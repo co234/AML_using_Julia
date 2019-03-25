@@ -12,5 +12,7 @@ We are trying to re-write all AML lab materials using Julia.
     |----iris.csv
     |----Advertising.csv
 |----Lab3: Convex Optimisation  
+    |----Lab03.ipynb
+    |----iris.csv
 |----...
 ```
