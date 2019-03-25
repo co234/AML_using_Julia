@@ -24,3 +24,7 @@ We are trying to re-write all AML lab materials using Julia.
 |----Lab12: CoTrainig and CCA
 |----Lab13: MTL
 ```
+
+Ref:
+1. Introducing Julia (Julia wikibook) https://en.wikibooks.org/wiki/Introducing_Julia
+2. Julia docs https://docs.julialang.org/en/v1/
