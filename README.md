@@ -14,7 +14,7 @@ We are trying to re-write all AML lab materials using Julia.
  ✅ |----Lab3: Convex Optimisation
         |----Lab03.ipynb
         |----iris.csv
-    |----Lab5: Approximation Error and Estimation Error
+ ✅ |----Lab5: Approximation Error and Estimation Error
     |----Lab6: Matrix Factorisation 
     |----Lab7: Learning with Noisy Data
     |----Lab8: Sparsing Coding
